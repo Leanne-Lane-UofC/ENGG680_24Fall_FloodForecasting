@@ -1,4 +1,4 @@
-# Hydrological Modelling for extensive Streamflow Forecasting
+# Hydrological Modelling for Extensive Streamflow Forecasting
 ## Group Members
 Mahweer Kumar, Navneet Robin, Jalelle Dinka, Leanne Lane, Dai Wuran, Fre Ashal, De-graft Godwyll, Kwadwo Asare-Menako
 ## Python Libraries
